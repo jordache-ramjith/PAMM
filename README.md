@@ -1,11 +1,4 @@
 # PAMM
-Simulation files including R code
+R code for the simulation study are provided here.
 
-Within each of the folders below, we have simulate datasets under 8 different scenarios and analyze them.
-
-The folders each include the R project file, which can be first opened. 
-Then the script can be opened.
-
-Generating the simulated data are slower for certain conditions, and analyzing them for 500 datasets under 8 scenarios can take a long time (up to a couple days for the conditional gap-time data, for example).
-
-The simulated data (simdat) as well as the analysis results (dat) is already saved in the workspace file. We recommend loading the workspace and then evaluating the simulated data.
+To access the saved workspaces of the simulation studies, see https://doi.org/10.6084/m9.figshare.14638353.v1.
